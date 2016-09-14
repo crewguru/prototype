@@ -41,6 +41,8 @@ Example:
 ## Jekyll
 The prototype is built using [Jekyll](https://jekyllrb.com/), a static page generator. Jekyll will pull from the `/includes` folder to populate corisponding modules from the `/sass` directory. 
 
+The `/site` directory in the project file holds the output of the build. This file is ignored by GitHub because [GitHub Pages](https://pages.github.com/) compiles Jekyll automagically. 
+
 
 
 
