@@ -14,7 +14,8 @@ To support the atomic design process, the styling for the app is broken up into:
 - Pages
 - Vars
 
-_SMACSS_
+**SMACSS**
+
 [SMACSS](https://smacss.com/) is a style guide for writing modular style-sheets. This build system adapts that style in Sass format. 
 
 Example:
@@ -33,7 +34,8 @@ Example:
 		background: white
 ```		
 
-_Bourbon_
+**Bourbon**
+
 [Bourbon](http://bourbon.io/) is a simplified mixin library similar to Compass. (but only the good bits)
 
 ## Jekyll
