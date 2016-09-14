@@ -5,7 +5,7 @@ CrewGuru is a site that connects you to the freelance professionals that can get
 Please report any bugs in the [GitHub Issue Tracker](https://github.com/crewguru/prototype/issues)
 
 # Building
-This prototype was build using a practice called [atomic design](http://bradfrost.com/blog/post/atomic-web-design/) - Building a series of related, modular components that can be assembled into pages. 
+This prototype was built using a practice called [atomic design](http://bradfrost.com/blog/post/atomic-web-design/) - Building a series of related, modular components that can be assembled into pages. 
 
 ## Sass
 To support the atomic design process, the styling for the app is broken up into:
