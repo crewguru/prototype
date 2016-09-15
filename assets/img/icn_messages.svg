@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="13px" viewBox="0 0 20 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>icn_messages</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-1004.000000, -43.000000)" fill="#BFBFBF">
+            <g id="header">
+                <g id="icons" transform="translate(1004.000000, 31.000000)">
+                    <g id="messages">
+                        <path d="M0,25 L20.0000994,25 L20.0000994,12.0005113 L0,12.0005113 L0,25 Z M1.16448471,23.2820059 L6.28583078,18.0175811 L1.19431779,13.8023599 L1.66866383,13.1990167 L10.0428105,20.13235 L18.0748711,13.2041298 L18.5611504,13.7972468 L13.5581422,18.1116618 L18.7839041,23.4855064 L18.2498919,24.0336283 L12.9773915,18.6117207 L10.0517604,21.1355359 L6.87652584,18.5063913 L1.69750247,23.8311504 L1.16448471,23.2820059 Z" id="icn_messages"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
